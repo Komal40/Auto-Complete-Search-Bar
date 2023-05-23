@@ -1,0 +1,18 @@
+.App{
+  box-sizing: border-box;
+  height:100vh;
+  width:100vw;
+}
+
+.container{
+  /* border:1px solid red; */
+  width:40vw;
+  height:50vh;
+  margin:auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top:10rem;
+
+}
